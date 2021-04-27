@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Hey! I'm Joti, currently working as Technology Analyst at Infosys Limited, India
+I love exploring and analysing data, working on visualising data in different ways and to reach out to bigger audience through my data vizzez.
 
-You can use the [editor on GitHub](https://github.com/jotigautam/jotigautam/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
